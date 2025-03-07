@@ -1,4 +1,4 @@
-# # Fruit Recognition App
+ # Fruit Recognition App
 
 ## Overview
 The **Fruit Recognition App** is a deep learning-based image classification project designed to identify different types of fruits from images. This application is built using **TensorFlow/Keras** for model training and **Streamlit** for an interactive user interface.
